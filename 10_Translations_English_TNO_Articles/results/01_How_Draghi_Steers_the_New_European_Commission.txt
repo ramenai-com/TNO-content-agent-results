@@ -1,0 +1,211 @@
+# How Draghi Steers the New European Commission
+
+In early September, the impressive report "[The Future of European
+Competitiveness](https://commission.europa.eu/topics/strengthening-european-competitiveness/eu-competitiveness-looking-ahead_en)"
+by former ECB President and Italian Prime Minister Mario Draghi was
+published. His general analysis -- the EU economy's innovation capacity
+and productivity development are increasingly lagging behind the US and
+China -- was received as a wake-up call. His main recommendations --
+such as the need for €800 billion in additional investments and a new,
+coordinated industrial policy -- made headlines in all member states.
+The alarming report was handed over to Ursula von der Leyen, the current
+President of the European Commission (EC), who is running for her second
+term until 2029. The content of Draghi's report is interesting, but more
+important for its expected policy impact is that Von der Leyen
+explicitly instructed her [new team of
+Commissioners](https://commission.europa.eu/about-european-commission/towards-new-commission-2024-2029/commissioners-designate-2024-2029_en)
+to boost European competitiveness a week later.
+
+## Three New Portfolios within the EC
+
+"Draghi" is prominently featured in her mission letters for the next
+five years to the Commissioners. There are three new portfolios for the
+Executive Vice Presidents, clearly inspired by his ideas. Ribera
+Rodríquez becomes Executive Vice President for "Clean, Fair, and
+Competitive Transition"; Henna Virkkunen for "Tech Sovereignty,
+Security, and Democracy"; and Stéphane Séjourne for "Prosperity and
+Industrial Strategy". While the focus of the EC 2019-2024 was on being
+ready for the digital age, an economy that works for people, and
+achieving the Green Deal and a climate-neutral continent, the priorities
+for 2024-2029 shift to clean tech, competitiveness, sovereignty,
+security, and industrial policy.
+
+## Far-reaching Proposals for a New Economy
+
+What can we expect from the new European Commission? Reading the mission
+letters, we can anticipate several far-reaching proposals.
+
+The EC wants to pursue a more active industrial policy, partly in
+response to the Inflation Reduction Act in the US, which attracts
+European companies with funds and tax benefits, and the rapidly emerging
+conquest of the European market by Chinese companies receiving state
+aid. They want a Clean Industrial Deal with adjustments to EU state aid
+rules, allowing for more public support to accelerate the energy
+transition, decarbonize industry, and ensure sufficient production
+capacity for clean tech. A specific task is to lower energy prices in
+the EU for businesses, as electricity prices are currently 2 to 3 times
+higher than in the US and gas prices 4 to 5 times higher. This price
+difference is mainly due to Europe's scarcer natural resources, but also
+due to fundamental shortcomings in the joint energy market, such as
+poorly connected energy infrastructure between member states, different
+and conflicting national policy regimes, and very limited cross-border
+competition between energy companies.
+
+Additionally, the EC will review competition policy for horizontal
+mergers -- read: merging (inter)national competitors -- because there is
+a geopolitical need for European companies to operate on a larger scale,
+have more investment power and willingness, and thus act more
+resiliently, efficiently, and innovatively on the world stage. Draghi
+calls these the European champions necessary to compete with American
+and Asian giants. Besides this relaxation of competition policy, the EC
+wants to strengthen other parts to better support European companies in
+scaling up within the EU and beyond, and to more powerfully protect
+promising, innovative startups and scaleups against killer acquisitions.
+This is a policy shift: EU competition rules will gain new power-forming
+and protective functions.
+
+The EC also wants to establish a European Competitiveness Fund (ECF) [by
+bundling existing
+funds](https://sciencebusiness.net/fp10/commission-prepares-bundle-all-research-and-innovation-money-competitiveness-fund?utm_source=ActiveCampaign&utm_medium=email&utm_content=Commission%20prepares%20to%20bundle%20all%20research%20and%20innovation%20money%20into%20competitiveness%20fund&utm_campaign=Science%7CBusiness%20Bulletin%20No%20%201229),
+to quickly organize financing for Important Projects of Common Interest
+(IPCEIs) for the most strategic sectors and technologies, helped by the
+relaxed state aid rules. The EU needs to scale up and protect these
+projects faster in the geopolitical struggle with the US and China.
+European public procurement rules will also be adjusted to ensure a
+certain supply of vital technologies, products, and services, and to
+ensure that European production in strategic sectors and technologies
+continues. Besides this strategic support for domestic businesses in the
+internal market, the Commission will more forcefully and compellingly
+apply the Foreign Subsidies Regulation (FSR). The FSR, which came into
+force last year, gives the EC the ability to tackle internal market
+distortions caused by foreign subsidies to companies, for example by
+forcing subsidized assets to be sold or giving competitors access to
+subsidized infrastructure. This should ensure a level playing field with
+foreign companies in the European internal market, in line with the EC's
+proposal earlier this month [for higher tariffs on Chinese electric
+cars](https://nos.nl/artikel/2539575-eu-landen-stemmen-in-met-heffing-op-chinese-elektrische-auto-s).
+
+## New, Coordinated European Industrial Strategy for Innovation
+
+This upcoming EC wants to lead the EU into a modern innovation era with
+a new, coordinated industrial strategy. The core of this: member states
+must invest more, coordinate, and innovate, and more actively and
+powerfully use the opportunities of the joint internal market and
+external economic policy. This shift was also seen in the [Letta
+report](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)
+on the future of the internal market: the belief is that guaranteeing
+the four classical freedoms of persons, goods, services, and capital is
+no longer sufficient. On Draghi's recommendation, the Commission wants
+to develop a Competitiveness Coordination Tool through which member
+states will coordinate investment and policy choices, focusing on clean
+tech, decarbonization, and incentivizing investment. Brussels also wants
+to conclude an Industrial Decarbonisation Accelerator Act to create
+leading markets in the development, production, and adoption of clean
+tech in industry, with accelerated permitting procedures. Additionally,
+the competitiveness of the defense industry will be targeted, with
+improvements to the internal market, stimulation of innovation, and
+increased coordinated public and private investments. The EC will work
+on a European Defence Union.
+
+## Extra Focus on Digital Innovation in the EU
+
+Digital innovation rightly receives much attention and extra policy
+focus. The EC will look at how digital technologies and AI opportunities
+can be better utilized, which is essential for increasing productivity
+in the EU. Brussels wants AI startups and industries to have access to
+supercomputing capacity and, together with member states, industry, and
+social partners, will develop an Apply AI Strategy to improve the use of
+AI in industry and public services. The functioning of the (future)
+internal European digital market -- like the energy market -- must also
+be significantly improved to increase competitiveness. The Commission is
+therefore aiming for a Digital Networks Act, a European Data Union
+Strategy, and an EU Cloud Policy: rules and regulations to harmonize,
+simplify, and connect. Finally, European cybersecurity standards must be
+raised and harmonized.
+
+As the EU currently lags significantly behind the US in big tech, the EC
+primarily wants to increase activities and investments in "emerging"
+technologies such as supercomputing, semiconductors (chips), the
+Internet of Things, genomics, quantum computing, and space tech. Here,
+larger opportunities seem to exist to lead the way in the future,
+provided they are coordinated. For example, Brussels is now stimulating
+the development of eight large quantum computers, paying half the costs,
+[with one to be located in Amsterdam at the national supercomputer
+Snellius](https://www.universiteitleiden.nl/nieuws/2024/10/nieuwste-quantumcomputer-komt-in-nederland).
+For chips, they will analyze where the strategic segments, innovation
+potential, and material production opportunities lie, and there will be
+an EU long-term plan for quantum chips. The Commission wants to focus on
+future technologies, their economic value, and greater strategic
+autonomy: much attention will therefore be given to reducing
+dependencies on critical raw materials and materials from non-EU
+countries. Hence, an EU Critical Raw Materials Platform will be
+established. The new EC also wants to launch a Circular Economy Act to
+create market demand for secondary raw materials and organize a single
+internal European market for waste, which is also necessary to start
+reusing critical raw materials and materials.
+
+## Europe Will Be Built Through Crises
+
+It is so clear how Draghi is steering the new European Commission, at
+the request of Von der Leyen. The Commissioners seem set to come up with
+far-reaching proposals on clean tech, competitiveness, sovereignty,
+security, and industrial policy over the next five years.
+
+A point of attention for the Netherlands is that we have more of a
+growing high-tech industry -- think of companies like ASML, NXP, or VDL,
+which make specialized production tools that play increasingly important
+roles in international value chains -- than a green tech industry.
+Indeed, also to produce green tech, but not exclusively. However, the
+expanding Dutch high-tech industry has similar problems to the green
+tech industry that Draghi focuses on, namely that the raw materials for
+production also predominantly come from China, creating dependencies and
+vulnerabilities.
+
+The main omission in the mission letters is: how do we get the money?
+That €800 billion in additional investments will not come solely from
+the market. While Draghi clearly expresses his support for structural
+joint debt issuance by EU member states to finance part of the necessary
+public investments in innovation and infrastructure and strengthen the
+European capital markets union, this politically sensitive idea
+understandably does not return. Ultimately, member states will still
+have to repay joint debt issuance, and national political support for
+this remains limited. For the Netherlands, it is true that we are
+sufficiently creditworthy to attract capital ourselves to achieve the
+goal of investing 3% of GDP in R&D -- if we really wanted to.
+Additionally, we have several private investors such as venture capital,
+banks, insurers, and pension funds, but they invest only sparingly in
+the Netherlands itself. There is still policy gain to be made here.
+Lagging investments are also simply a result of low return expectations,
+partly because entrepreneurship, valorization, and productivity
+improvement in the EU and the Netherlands received relatively less
+attention (or still do) compared to regulating the qualitative effects
+of innovation or its application. At the European and national levels,
+there is still room for solutions here.
+
+A major uncertainty is, of course, to what extent Germany and France
+follow the analysis in the report "The Future of European
+Competitiveness" and -- above all -- to what extent they will support
+the new EC's proposals. While France traditionally -- especially under
+President Macron -- has a more positive attitude towards central
+industrial policy and European investments, Germany is opposed to this.
+But now that the [German
+economy](https://www.nrc.nl/nieuws/2024/10/11/het-duitse-businessmodel-is-in-groot-gevaar-a4869033)
+and [automotive
+industry](https://nos.nl/artikel/2538287-nog-geen-concrete-maatregelen-na-overleg-auto-industrie-en-duitse-overheid)
+are in very difficult times, and Chancellor Scholz has announced a [new
+industrial
+policy](https://nieuws.nl/economie/scholz-nieuw-beleid-nodig-om-duitse-industrie-te-helpen),
+things could change. There are similarities with 2020, when the EC
+launched the EU recovery fund during the corona crisis, and France and
+Germany suddenly turned out to be supporters, to the great surprise of
+the Netherlands.
+
+"Europe will be built through crises," predicted Jean Monet, one of the
+founders of the EU. This proves true time and again. And Draghi knows
+this.
+
+------------------------------------------------------------------------
+
+**Read this article in Dutch:** [Hoe Draghi de nieuwe Europese Commissie
+stuurt](https://vector.tno.nl/artikelen/draghi-nieuwe-europese-commissie-stuurt/)
+(in Dutch)
